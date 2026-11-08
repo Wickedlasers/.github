@@ -5,7 +5,7 @@ Manual and guides: [wiki.laseros.com](https://wiki.laseros.com) · Shop: [www.la
 
 ## Drive a LaserCube from your own software
 
-**Ultra MK2 and Pro** (over the network)
+**Ultra MK2 and Pro**
 
 - **Your own code:** our [UDP DAC Streaming Protocol Specification](https://wiki.laseros.com/developers/udp-streaming-protocol.pdf) (PDF) describes the commands and data packets and includes a complete example sender in Python. Put the cube in LaserOS control mode.
 - **Software that already has a laser output:** [Ether Dream mode](https://wiki.laseros.com/docs/guides/ultra-mk2-pro-manual/#ether-dream-control-mode) (TouchDesigner's Laser Device CHOP is one), IDN, [Art-Net](https://wiki.laseros.com/docs/guides/ultra-mk2-pro-manual/#artnet-control-mode) and [DMX](https://wiki.laseros.com/docs/guides/ultra-mk2-pro-manual/#dmx-control-mode): see [Control modes](https://wiki.laseros.com/docs/guides/ultra-mk2-pro-manual/#control-modes) and the [16 DMX channels](https://wiki.laseros.com/docs/guides/ultra-mk2-pro-manual/#dmxart-net-channel-layout).
@@ -13,7 +13,7 @@ Manual and guides: [wiki.laseros.com](https://wiki.laseros.com) · Shop: [www.la
 
 **LaserCube 1W and 2W** (the first, USB-only cubes)
 
-- [laserdocklib](https://github.com/Wickedlasers/laserdocklib): USB client library (C++), with build steps for macOS, Linux and Android.
+- [laserdocklib](https://github.com/Wickedlasers/laserdocklib): USB client library (C++), with build steps for Linux and Android (tested on macOS).
 - [Laser_OS_TouchDesigner](https://github.com/Wickedlasers/Laser_OS_TouchDesigner): TouchDesigner plugin (Windows 64-bit).
 
 ## Community libraries
