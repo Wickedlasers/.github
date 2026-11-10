@@ -13,7 +13,7 @@ Manual and guides: [wiki.laseros.com](https://wiki.laseros.com) · Shop: [www.la
 
 **LaserCube WiFi and the first LaserCube Ultra**
 
-- Use a program that supports them, such as MadMapper, Liberation, LaserShowGen or Millumin ([our list of compatible apps](https://www.laseros.com/compatible-apps/)), or our free LaserOS app. The protocol specification above covers only the Ultra MK2 and Pro.
+- Use a program that supports them, such as MadMapper, Liberation, LaserShowGen or Millumin ([our list of compatible apps](https://www.laseros.com/compatible-apps/)), or our free LaserOS app. The protocol specification above also applies to them (the same commands), but its buffer size and top point rate are the Ultra MK2 and Pro's.
 
 **LaserCube 1W and 2W** (the first, USB-only cubes)
 
